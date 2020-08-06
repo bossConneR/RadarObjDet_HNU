@@ -2,7 +2,8 @@
 """
 Created on Sun Jul 26 22:02:47 2020
 author: _ConneR_
-email:crisprhhx@qq.com
+email: crisprhhx@qq.com
+version: 1.0.0
 """
 import imutils
 from imutils.video import FPS
