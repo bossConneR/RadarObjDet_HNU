@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jul 26 22:02:47 2020
-author: _conneR_
+author: _ConneR_
 email:crisprhhx@qq.com
 """
 import imutils
