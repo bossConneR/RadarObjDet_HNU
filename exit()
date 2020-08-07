@@ -1,0 +1,47 @@
+[33mcommit 4cd175884d569f3359c54837843e7ba074b2093d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: ConneR <44137161+bossConneR@users.noreply.github.com>
+Date:   Thu Aug 6 16:36:27 2020 +0800
+
+    Update duckDet.py
+
+[1mdiff --git a/duckDet/duckDet.py b/duckDet/duckDet.py[m
+[1mindex d01ad47..aec4720 100644[m
+[1m--- a/duckDet/duckDet.py[m
+[1m+++ b/duckDet/duckDet.py[m
+[36m@@ -2,7 +2,8 @@[m
+ """[m
+ Created on Sun Jul 26 22:02:47 2020[m
+ author: _ConneR_[m
+[31m-email:crisprhhx@qq.com[m
+[32m+[m[32memail: crisprhhx@qq.com[m
+[32m+[m[32mversion: 1.0.0[m
+ """[m
+ import imutils[m
+ from imutils.video import FPS[m
+
+[33mcommit 023d12785d43ed362687ab122e14fbf745120135[m
+Author: ConneR <44137161+bossConneR@users.noreply.github.com>
+Date:   Thu Aug 6 16:19:01 2020 +0800
+
+    Update duckDet.py
+
+[1mdiff --git a/duckDet/duckDet.py b/duckDet/duckDet.py[m
+[1mindex ebcc5b4..d01ad47 100644[m
+[1m--- a/duckDet/duckDet.py[m
+[1m+++ b/duckDet/duckDet.py[m
+[36m@@ -1,7 +1,7 @@[m
+ # -*- coding: utf-8 -*-[m
+ """[m
+ Created on Sun Jul 26 22:02:47 2020[m
+[31m-author: _conneR_[m
+[32m+[m[32mauthor: _ConneR_[m
+ email:crisprhhx@qq.com[m
+ """[m
+ import imutils[m
+[36m@@ -129,4 +129,4 @@[m [mcv2.destroyAllWindows()[m
+ [m
+ [m
+ [m
+[31m-	[m
+\ No newline at end of file[m
+[32m+[m[41m	[m
